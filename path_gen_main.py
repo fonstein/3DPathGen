@@ -1,5 +1,5 @@
 import sys
-
+import socket                       # Makes it possible to import script as module
 import FreeCAD
 import FreeCADGui
 
