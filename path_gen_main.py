@@ -1,9 +1,10 @@
 import sys
+
 import FreeCAD
-import socket                       # Makes it possible to import script as module
+import FreeCADGui
 
 # Has to be added to the path for FreeCAD to find the scripts
-sys.path.append("C:/Users/ingridon/OneDrive/Documents/PhD/Code and shits/PathGeneration")
+sys.path.append("C:/Users/ingridon/OneDrive/Documents/PhD/3D Path Generation code/3DPathGen")
 
 __title__ = "PathGeneration"
 __author__ = "Ingrid Fjordheim Onstein"
